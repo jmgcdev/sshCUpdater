@@ -16,6 +16,14 @@
             "OpenVPNTCPPort": "1194",
             "OpenVPNSSLPort": "443",
             "flag": "us"
+        }, 
+{
+            "Name": "Ashburn, USA2",
+            "ServerIPHost": "5.161.99.3",
+            "Category": "PREMIUM",
+            "OpenVPNTCPPort": "1194",
+            "OpenVPNSSLPort": "443",
+            "flag": "us"
         }
     ]
 }
